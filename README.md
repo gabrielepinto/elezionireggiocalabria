@@ -4,12 +4,13 @@
 
 ---
 
+
+
 ## 🗳️ 1. Affluenza
 
-Mappa dell’affluenza percentuale per sezione elettorale .
+Mappa dell’affluenza percentuale per sezione elettorale (scala colori *Viridis*).
 
-👉 **Visualizza la mappa:**  
-https://gabrielepinto.github.io/elezionireggiocalabria/mappe/affluenza_map.html
+👉 **[Visualizza la mappa](https://gabrielepinto.github.io/elezionireggiocalabria/mappe/affluenza_map.html)**
 
 ---
 
@@ -17,8 +18,7 @@ https://gabrielepinto.github.io/elezionireggiocalabria/mappe/affluenza_map.html
 
 Mappa della percentuale di voto ottenuta da Tridico per sezione (scala colori *Reds*).
 
-👉 **Visualizza la mappa:**  
-https://gabrielepinto.github.io/elezionireggiocalabria/mappe/tridico_share_map.html
+👉 **[Visualizza la mappa](https://gabrielepinto.github.io/elezionireggiocalabria/mappe/tridico_share_map.html)**
 
 ---
 
@@ -30,8 +30,9 @@ Mappa del margine percentuale tra Tridico e Occhiuto:
 - 🔵 Blu → Occhiuto più forte  
 - ⚪ Bianco → equilibrio  
 
-👉 **Visualizza la mappa:**  
-https://gabrielepinto.github.io/elezionireggiocalabria/mappe/tridico_vs_occhiuto_margin.html
+👉 **[Visualizza la mappa](https://gabrielepinto.github.io/elezionireggiocalabria/mappe/tridico_vs_occhiuto_margin.html)**
+
+---
 
 ---
 
